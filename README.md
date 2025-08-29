@@ -10,8 +10,9 @@
 - 💬 Ask me about anything!
 - 📫 Hit me up at: lfmhan@gmail.com
 
+[linkedin page](https://www.linkedin.com/in/lu%C3%ADs-filipe-harten-nogueira-a5a8781a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app). 
 
-[instagram page](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open). 
+[instagram page](https://www.instagram.com/luisfhartenn?igsh=MXU1aDVmd283MnlvYQ==). 
 
 <div align="center">
   <a href="#" alt="Gmail">
