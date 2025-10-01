@@ -19,6 +19,15 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Python``
+- ``Java``
+- ``Paradigma de orientação a objetos``
+
+<h4 align="center"> 
+	:construction:  Projeto em construção  :construction:
+</h4>
 
 [linkedin page](https://www.linkedin.com/in/lu%C3%ADs-filipe-harten-nogueira-a5a8781a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app). 
 
