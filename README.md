@@ -1,4 +1,4 @@
-## Hi there!👋 My name is Luís Filipe
+<h1 align="center"> Hey there!👋 My name is Luís Filipe </h1>
 
 **I would like to share with you some of what I've been developing!**
 <br/> <br/> **Hope you find something interesting!**
