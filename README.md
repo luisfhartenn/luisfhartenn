@@ -15,7 +15,9 @@
 - 📫 Hit me up at: lfmhan@gmail.com
 
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 
 [linkedin page](https://www.linkedin.com/in/lu%C3%ADs-filipe-harten-nogueira-a5a8781a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app). 
