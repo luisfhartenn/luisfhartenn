@@ -5,12 +5,12 @@
 
 <br/>✨Born and bred in **Recife - PE** ✨ 
 
-- 🔭 I’m currently working on an app for smartphones...
-- 🌱 I’m currently a System Development student at SENAC PE and at SENAC RS (distance learning at the latter)
-- Some of my skills are: Algorithm building (Portugol Studio) and Requirement Analysis
-- 🌱 I’m currently learning Logical Data Model (LDM), Typebot, and SQL.
-- 🎯 My goal is to become a Full Stack Developer, to learn SQL, Java, Python, and to get a AWS certificate 🎯
-- 👯 I’m looking to collaborate on anything that will put my skills to use and teach me new ones.
+- 🌀 I’m currently working on an app for smartphones...
+- 🌲 I’m currently a System Development student at SENAC PE and at SENAC RS (distance learning at the latter)
+- 🔨 Some of my skills are: Algorithm building (Portugol Studio) and Requirement Analysis
+- ⚡️ I’m currently learning Logical Data Model (LDM), Typebot, and SQL.
+- 🎯 My goal is to become a Full Stack Developer, to learn SQL, Java, Python, and to get a AWS certificate 
+- 🕵🏼‍♂️ I’m looking to collaborate on anything that will put my skills to use and teach me new ones.
 - 💬 Ask me about anything!
 - 📫 Hit me up at: lfmhan@gmail.com
 
