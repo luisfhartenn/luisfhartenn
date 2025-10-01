@@ -1,6 +1,6 @@
-<h1 align="center"> Hey there!👋 My name is Luís Filipe </h1>
+<h1 align="center"> Hey there!👋 Nice to see you in my page! </h1>
 
-<h1 align="center"> I would like to share with you some of what I've been developing! </h1>
+<h1 align="center"> My name is Luís Filipe and I would like to share with you some of what I've been developing! </h1>
 <br/> <br/> <h1 align="center"> Hope you find something interesting! </h1>
 
 <br/>✨Born and bred in **Recife - PE** ✨ 
@@ -41,7 +41,8 @@
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=luisfhartenn"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=luisfhartenn&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
 </div>
-
+</br> <h1 align="center"> Thank you for checking my profile! </h1>
+</br>
 <img src="https://i0.wp.com/media3.giphy.com/media/KQTLrocomLDz2/giphy.gif" alt="puppies" width="500" height="886">
 
 <!--
