@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there!👋 Luís here, nice to see you in my page! </h1>
+<h1 align="center"> Hey there! 👋🏻 Luís here, nice to see you in my page! </h1>
 
 <h1 align="center"> I would like to share with you some of what I've been developing! </h1>
 <br/> <br/> <h1 align="center"> Hope you find something interesting! </h1>
