@@ -1,9 +1,9 @@
 <h1 align="center"> Hey there!👋 My name is Luís Filipe </h1>
 
-**I would like to share with you some of what I've been developing!**
-<br/> <br/> **Hope you find something interesting!**
+<h1 align="center"> I would like to share with you some of what I've been developing! </h1>
+<br/> <br/> <h1 align="center"> **Hope you find something interesting!** </h1>
 
-<br/>✨Natural de **Recife - PE** ✨ 
+<br/>✨Born and bread in **Recife - PE** ✨ 
 
 - 🌱 I’m currently a System Development student at SENAC PE and at SENAC RS (distance learning at the latter)
 - 🎯My goal is to become a Full Stack Developer🎯
