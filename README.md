@@ -25,6 +25,9 @@
 - ``Python``
 - ``Java``
 - ``Paradigma de orientação a objetos``
+- ``Figma``
+- ``Typebot``
+- ``Canva``
 
 <h4 align="center"> 
 	:construction:  Projeto em construção  :construction:
