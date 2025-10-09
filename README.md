@@ -10,7 +10,8 @@
 - 🔨 Some of my skills are: Algorithm building (Portugol Studio) and Requirement Analysis
 - ⚡️ I’m currently learning Logical Data Model (LDM), Typebot, and SQL.
 - 🎯 My goal is to become a Full Stack Developer, to learn SQL, Java, Python, and to get a AWS certificate 
-- 🕵🏼‍♂️ I’m looking to collaborate on anything that will put my skills to use and teach me new ones.
+- 🕵🏼‍♂️ I’m looking for my first professional or internship opportunity to apply my skills into and expand my horizons. I'm also looking to collaborate with anyone on any inovative project that will put my skills to use and teach me new ones.
+- XX I'm interested in AI, Mobile App Development, Website Development, and much more.
 - 💬 Ask me about anything!
 - 📫 Hit me up at: lfmhan@gmail.com
 
