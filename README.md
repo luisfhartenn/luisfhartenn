@@ -11,7 +11,7 @@
 - ⚡️ I’m currently learning Python, Logical Data Model (LDM), Typebot, and SQL.
 - 🎯 My goal is to become a Full Stack Developer, to learn SQL, Java, Python, and to get an AWS certificate 
 - 🕵🏼‍♂️ I’m looking for my first professional or internship opportunity to apply my skills into and expand my horizons. I'm also looking to collaborate with anyone on any inovative project that will put my skills to use and teach me new ones.
-- 🧐 I'm interested in AI, Mobile App Development, Website Development, and much more.
+- 🧐 I'm interested in AI, Cloud Computing, Mobile App Development, Website Development, and much more.
 - 💬 Ask me about anything!
 - 📫 Hit me up at: lfmhan@gmail.com
 
